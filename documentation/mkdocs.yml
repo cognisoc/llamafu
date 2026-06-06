@@ -1,8 +1,10 @@
+site_url: https://docs.cognisoc.com/llamafu/
 site_name: Llamafu Documentation
 site_description: Flutter FFI plugin for on-device LLM inference using llama.cpp
 site_author: Llamafu Contributors
-repo_url: https://github.com/skelf-research/llamafu
-repo_name: llamafu
+repo_url: https://github.com/cognisoc/llamafu
+repo_name: cognisoc/llamafu
+edit_uri: edit/main/documentation/docs/
 
 theme:
   name: material
